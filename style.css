@@ -21,9 +21,10 @@ ul li a {
   text-decoration: none;
   justify-content: space-evenly;
   color: black;
+  font-weight: 500;
 }
 ul li:hover {
-  background-color: white;
+  background-color: orangered;
   cursor: pointer;
 }
 .nav-item {
