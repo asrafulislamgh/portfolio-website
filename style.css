@@ -106,6 +106,7 @@ h3 {
 .experience-area {
   background-image: url(img/exp-bg.png);
   background-repeat: no-repeat;
+  margin-bottom: 100px;
 }
 #full-stack-exp {
   border-left: 7px solid;
@@ -116,4 +117,12 @@ h3 {
   border-left: 7px solid;
   border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
+}
+footer {
+  width: 100%;
+  background-color: orangered;
+}
+footer p {
+  text-align: center;
+  padding: 20px;
 }
